@@ -64,5 +64,6 @@ SELECT * FROM customers ORDER BY id;
 SELECT * FROM rooms ORDER BY id;
 SELECT name,cash FROM customers;
 SELECT * FROM songs WHERE title = 'Song1';
+SELECT * FROM customers WHERE name = 'Pawel'
 
 -- EOF
